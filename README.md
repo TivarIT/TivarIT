@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm Timofey 👋
+Student. I am studying automated testing. I am also interested in other aspects of programming. I'm looking for a job on Junior QA Automation Engineer position.
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=TivarIT&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=TivarIT&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/TivarIT/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TivarIT&layout=compact"/></a>
+</p>
 <p align='center'>
    <a href="https://leetcode.com/Tivar/">
        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>

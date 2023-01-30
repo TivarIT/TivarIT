@@ -23,7 +23,8 @@ Student. I am studying automated testing on Java. I am also interested in other 
 </div>
 
 ### :fire: My Stats :
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TivarIT&theme=dark)](https://git.io/streak-stats) &nbsp;
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TivarIT&theme=dark)](https://git.io/streak-stats)
+   <br>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TivarIT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

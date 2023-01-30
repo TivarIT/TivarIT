@@ -11,7 +11,7 @@ Student. I am studying automated testing on Java. I am also interested in other 
        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 My email: <a href='timoxa.novik03@gmail.com'>timoxa.novik03@gmail.com</a>
+   📫 My email: <a href='mailto:timoxa.novik03@gmail.com'>timoxa.novik03@gmail.com</a>
 </p>
 
 ### :computer: Languages and Tools that I study:

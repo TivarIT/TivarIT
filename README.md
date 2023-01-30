@@ -1,10 +1,6 @@
 # Hi, I'm Timofey 👋
 Student. I am studying automated testing on Java. I am also interested in other aspects of programming. I'm looking for a job on Junior QA Automation Engineer position.
 <p align='center'>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TivarIT&theme=dark)](https://git.io/streak-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TivarIT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p align='center'>
    <a href="https://leetcode.com/Tivar/">
        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
    </a>
@@ -25,6 +21,10 @@ Student. I am studying automated testing on Java. I am also interested in other 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TivarIT&theme=dark)](https://git.io/streak-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TivarIT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/TivarIT/github-profile-views-counter">

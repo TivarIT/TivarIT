@@ -23,14 +23,8 @@ Student. I am studying automated testing on Java. I am also interested in other 
 </div>
 
 ### :fire: My Stats :
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TivarIT&theme=dark)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TivarIT&theme=dark)](https://git.io/streak-stats) &nbsp;
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TivarIT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/TivarIT/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=TivarIT&color=DE002D">
-   </a>
-</div>
 
 <!--
 **TivarIT/TivarIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

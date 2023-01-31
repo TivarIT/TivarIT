@@ -1,5 +1,5 @@
 # Hi, I'm Timofey 👋
-Student. I am studying automated testing on Java. I am also interested in other aspects of programming. I'm looking for a job on Junior QA Automation Engineer position.
+Student. I'm studying automated testing on Java. I'm also interested in other aspects of programming. I'm looking for a job on Junior QA Automation Engineer position.
 <p align='center'>
    <a href="https://leetcode.com/Tivar/">
        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>

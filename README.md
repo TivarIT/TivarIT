@@ -1,5 +1,5 @@
 # Hi, I'm Timofey 👋
-Student. I'm studying automated testing on Java. I'm also interested in other aspects of programming. I'm looking for a job on Junior QA Automation Engineer position.
+
 <p align='center'>
    <a href="https://t.me/T1var">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
